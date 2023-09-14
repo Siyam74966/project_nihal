@@ -1,1 +1,17 @@
+{
+    "rolls": [
+        {
+            "roll_id": "12345",
+            "used": false
+        },
+        {
+            "roll_id": "67890",
+            "used": true
+        },
+        {
+            "roll_id": "ABCDE",
+            "used": false
+        }
+    ]
+}
 
